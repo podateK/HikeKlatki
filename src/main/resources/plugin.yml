@@ -1,0 +1,10 @@
+name: HikeKlatki
+version: '${project.version}'
+main: me.HikeKlatki.Main
+api-version: '1.17'
+authors: [xGabrielxYT_, podateK_]
+commands:
+  aklatki:
+    description: 'test'
+  klatki:
+    decscription: 'test2'
